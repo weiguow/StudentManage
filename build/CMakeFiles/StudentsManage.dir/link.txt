@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/StudentsManage.dir/StudentManage_Test.cpp.o CMakeFiles/StudentsManage.dir/Chinese.cpp.o CMakeFiles/StudentsManage.dir/Teacher.cpp.o CMakeFiles/StudentsManage.dir/Student.cpp.o  -o StudentsManage 

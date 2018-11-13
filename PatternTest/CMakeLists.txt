@@ -1,0 +1,3 @@
+add_subdirectory(FactoryPattern)
+add_subdirectory(BuilderPattern)
+add_subdirectory(AdapterPattern)
